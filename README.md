@@ -1,6 +1,10 @@
+## Cloner
+
 git clone https://github.com/ArthurJfr/calculetteTest.git
 
-
+## Installer les dépendances
 npm i
 
-node -
+
+## Lancer le script avec node
+node cli.js

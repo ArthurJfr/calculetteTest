@@ -8,3 +8,6 @@ npm i
 
 ## Lancer le script avec node
 node cli.js
+
+## Lancer les tests 
+npm test
